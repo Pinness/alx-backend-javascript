@@ -1,0 +1,1 @@
+This project covers the fundamental concepts of ES6 (ECMAScript 2015) and its new features. The goal is to understand and explain the key differences in JavaScript development using ES6, including block-scoped variables, arrow functions, string templating, and more.
